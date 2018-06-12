@@ -1,4 +1,4 @@
-(module mpcie-full-card (layer F.Cu) (tedit 541E5E95)
+(module mpcie:mpcie-full-card (layer F.Cu) (tedit 5B1FD074)
   (fp_text reference Ref** (at 12.15 -15.2 90) (layer F.SilkS)
     (effects (font (thickness 0.15)))
   )
